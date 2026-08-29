@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://intfer.cc/sitemap.xml
